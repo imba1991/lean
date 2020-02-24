@@ -4,7 +4,7 @@
     <router-link to="/vip">云笔记会员</router-link>
     <router-link to="/xiezuo">云协作</router-link>
     <router-link to="/down">下载</router-link>
-  
+    <router-link to="/child">子组件传值</router-link>
     <router-view/>
      <foo></foo>
      <jiao></jiao>

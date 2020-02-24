@@ -4,7 +4,7 @@
         <img src="../assets/xiezuo.jpg" alt="">
     </div>
 </template>
-<<script>
+<script>
 export default {
     
 }

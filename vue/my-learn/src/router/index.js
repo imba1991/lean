@@ -5,6 +5,7 @@ import note from '@/components/note'
 import vip from '@/components/vip'
 import xiezuo from '@/components/xiezuo'
 import down from '@/components/down'
+import child from '@/components/child'
 Vue.use(Router)
 
 export default new Router({
@@ -17,6 +18,7 @@ export default new Router({
     {path:'/note',component:note},
     {path:'/vip',component:vip},
     {path:'/xiezuo',component:xiezuo},
-    {path:'/down',component:down}
+    {path:'/down',component:down},
+    {path:'/child',component:child}
   ]
 })
